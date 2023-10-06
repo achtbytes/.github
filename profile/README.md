@@ -20,8 +20,8 @@ We are **achtbytes** a corporate startup based in Schwäbisch-Hall Germany.
 - Organizations or individuals that are on the same mission
 
 :rocket: **You want to see more?** *(Comming soon)*<br>
-Our landing page is coming soon [here](https://achtbytes.com).<br>
-Dive into our plattform and discover features and more on our [repo](https://github.com/achtbytes).
+- Our landing page is coming soon [here](https://achtbytes.com).<br>
+- Dive into our plattform and discover features and more on our [repo](https://github.com/achtbytes).
 
 :incoming_envelope: **Contact**<br>
 You can reach out to us on [linkedin](https://linkedin.com/company/achtbytes/about) or here on github.
