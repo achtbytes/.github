@@ -24,6 +24,6 @@ We are **achtbytes** a corporate startup based in Schwäbisch-Hall Germany.
 - Dive into our plattform and discover features and more on our [repo](https://github.com/achtbytes).
 
 :incoming_envelope: **Contact**<br>
-You can reach out to us on [linkedin](https://linkedin.com/company/achtbytes/about) or here on github.
+&emsp;&emsp; You can reach out to us on [linkedin](https://linkedin.com/company/achtbytes/about) or here on github.
 
 *We are a dedicated Team bringing expertise in iot protocols, web technologies, containerization and azure related services.*
